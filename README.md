@@ -11,7 +11,7 @@
 
 ## About
 
-SpaceshipBSD is a persistent live system for flash drives, based on FreeBSD.
+SpaceshipBSD is a persistent live system for flash drives, based on FreeBSD. The system is suitable for both beginners and professionals.
 
 
 ## Documentation
