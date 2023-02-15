@@ -1,4 +1,4 @@
-# SpaceshipBSD
+# 🚀SpaceshipBSD
 
 <p align="center">
      
